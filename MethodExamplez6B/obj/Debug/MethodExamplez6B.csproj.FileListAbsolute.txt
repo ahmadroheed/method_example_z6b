@@ -1,0 +1,11 @@
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\bin\Debug\MethodExamplez6B.exe.config
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\bin\Debug\MethodExamplez6B.exe
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\bin\Debug\MethodExamplez6B.pdb
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.csproj.AssemblyReference.cache
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.Form1.resources
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.Properties.Resources.resources
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.csproj.GenerateResource.cache
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.csproj.CoreCompileInputs.cache
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.exe
+C:\Users\arkha\source\repos\MethodExamplez6B\MethodExamplez6B\obj\Debug\MethodExamplez6B.pdb
