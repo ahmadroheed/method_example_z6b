@@ -62,5 +62,31 @@ namespace MethodExamplez6B
             String value = Math.Pow(2, 32).ToString();
             MessageBox.Show(String.Format("{0:N}", value));
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // for creating object of a class
+            // ClassName objectname = new ClassName();
+
+            Car toyota = new Car("Toyota");
+            //toyota.carName = "Toyota";
+            //toyota.color = "White";
+            //toyota.size = 190;
+            //toyota.model = "2022";
+            //toyota.engin_number = 101010;
+            //toyota.showCarInfo();
+
+
+            // making another car
+
+            Car benze = new Car("Benze");
+            //benze.carName = "Benze";
+            //benze.color = "Red";
+            //benze.size = 180;
+            //benze.model = "2019";
+            //benze.engin_number = 202020;
+            //benze.showCarInfo();
+
+        }
     }
 }
